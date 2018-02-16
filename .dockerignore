@@ -1,0 +1,5 @@
+env.dev
+release.sh
+docker-compose.*
+README.md
+LICENSE

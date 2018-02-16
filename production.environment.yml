@@ -1,0 +1,8 @@
+docker_environment:
+  - key: ALLOWED_HOSTS
+    value: firehose
+  - key: DATABASE_NAME
+    value: schoolorchestration_firehose
+  - key: DATABASE_USER
+    value: schoolorchestration_firehose
+
